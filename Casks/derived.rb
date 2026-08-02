@@ -8,7 +8,7 @@ cask "derived" do
   homepage "https://github.com/adiaz0511/Derived"
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Derived.app"
 end

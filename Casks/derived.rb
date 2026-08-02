@@ -1,6 +1,6 @@
 cask "derived" do
-  version "1.0.1"
-  sha256 "a6a525649613b472576107cd830c54cbb7cec8eb4988ce186f1d4fa10dfb5d15"
+  version "1.0.2"
+  sha256 "837fe40fe950d6b521b78fd1213d161dc10e72361d93ea0a7c7033fd9b7b8a72"
 
   url "https://github.com/adiaz0511/Derived/releases/download/v#{version}/Derived-#{version}-macOS-universal.dmg"
   name "Derived"
